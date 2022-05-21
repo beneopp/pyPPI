@@ -7,8 +7,6 @@ python setup.py install
 ```
 
 # Usage
-You can either use the scripts directly or use master script setupPpiDb to run most of them on a list of proteins.
-
 For basic usage:
 1. Create a text file with list of proteins and the interacting chains, for example:
   ```
