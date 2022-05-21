@@ -22,7 +22,7 @@ Follow the script instructions and that's it!
 The above script will:
 * Download PDBs from the RCSB PDB
 * Add hydrogens using [molprobity](http://molprobity.biochem.duke.edu/)
-* Calculate various properties:
+* Calculate the following properties:
   * Accessible surface area ([ASA](https://en.wikipedia.org/wiki/Accessible_surface_area))
   * interface atoms/residues in the molecule (ΔASA > 0 or Distance > 4)
   * periphery index
