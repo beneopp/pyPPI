@@ -1,4 +1,4 @@
-This is collection of simple python scripts for calculating basic structural properties/features of protein complexes.
+This is collection of python scripts for calculating structural properties/features of protein complexes.
  
 # Install
 Download the code and run
