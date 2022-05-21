@@ -7,7 +7,7 @@ python setup.py install
 ```
 
 # How to execute the script
-1. Create a text file with list of proteins and the interacting chains, for example:
+1. Create a text file with list of proteins and the interacting chains where the ":" symbol indicates the protein-protein interface that is being investigated. For example.:
   ```
   1AKJ_AB:DE
   1AK4_A:D
