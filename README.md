@@ -6,8 +6,7 @@ Download the code and run
 python setup.py install
 ```
 
-# Usage
-For basic usage:
+# How to execute the script
 1. Create a text file with list of proteins and the interacting chains, for example:
   ```
   1AKJ_AB:DE
