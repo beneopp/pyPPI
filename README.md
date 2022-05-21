@@ -16,7 +16,7 @@ For basic usage:
   1AK4_A:D
   ```
 2. invoke setupPpiDb.py on the file you just created, for example (assuming it is saved as PDBs.txt) 
-   ```
+  ```
   python setupPpiDb.py PDBs.txt
   ```
 Follow the script instructions and that's it!
