@@ -1,4 +1,4 @@
-This is collection of python scripts for calculating structural properties/features of protein complexes.
+This code contains a collection of python scripts for calculating structural properties/features of protein complexes.
  
 # Install
 Download the code and run
@@ -7,7 +7,7 @@ python setup.py install
 ```
 
 # How to execute the script
-1. Create a text file with list of proteins and the interacting chains where the ":" symbol indicates the protein-protein interface that is being investigated. For example:
+1. Create a text file with the proteins of interest and the interacting chains where the ":" symbol indicates the protein-protein interface that is being investigated. For example:
   ```
   1AKJ_AB:DE
   1AK4_A:D
