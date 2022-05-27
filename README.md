@@ -12,7 +12,7 @@ python setup.py install
   1AKJ_AB:DE
   1AK4_A:D
   ```
-2. invoke setupPpiDb.py on the file you just created, for example (assuming it is saved as PDBs.txt) 
+2. Invoke setupPpiDb.py on the file you just created, for example (assuming it is saved as PDBs.txt) 
   ```
   python setupPpiDb.py PDBs.txt
   ```
