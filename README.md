@@ -12,7 +12,7 @@ python setup.py install
   1AKJ_AB:DE
   1AK4_A:D
   ```
-2. Invoke setupPpiDb.py on the file you just created, for example (assuming it is saved as PDBs.txt) 
+2. Invoke setupPpiDb.py on the file you just created. For example (assuming it is saved as PDBs.txt):
   ```
   python setupPpiDb.py PDBs.txt
   ```
@@ -22,7 +22,7 @@ Follow the script instructions and that's it!
 The above script will:
 * Download PDBs from the RCSB PDB
 * Add hydrogens using [molprobity](http://molprobity.biochem.duke.edu/)
-* Calculate the following properties:
+* Calculate/identify the following properties:
   * Accessible surface area ([ASA](https://en.wikipedia.org/wiki/Accessible_surface_area))
   * interface atoms/residues in the molecule (ΔASA > 0 or Distance > 4)
   * periphery index
