@@ -1,4 +1,4 @@
-This code contains a collection of python scripts for calculating structural properties/features of protein complexes.
+This code contains a collection of python scripts for calculating structural properties of protein complexes.
  
 # Install
 Download the code and run
